@@ -1,4 +1,1 @@
-speechrecognition
-pyttsx3
-chess
-python-chess
+flask
